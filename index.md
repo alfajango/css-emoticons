@@ -144,7 +144,6 @@ I'd write more documentation, but really that's all there is to it. Enjoy!
 <p class="text" id="regular">
  And some special emoticons: &lt;3 ;( &gt;:) &gt;;) &gt;:( O_o O_O o_o 0_o T_T ^_^ ?-) [+=..]
 </p>
-<hr />
 
 <script type="text/javascript">
 $('.text').emoticonize({
